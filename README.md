@@ -19,6 +19,7 @@ The whole spec rests on five floor rules, stated in full in the library itself:
 - `Glyph_Library_v1.4.md` — the current spec.
 - `Glyph_Library_v1.3.md`, `v1.2.md`, `v1.1.md`, `v1.0.md` — the version lineage. Each file carries its own change notes; the library was built by readers disagreeing and the spec absorbing the disagreement.
 - `Glyph_Pipeline_Notes.md` — the implementation layer around the spec: what senses feed it, which layers are buildable now, and the questions only field data can answer. The library stays syntax-only; everything implementation lives there.
+- `Glyph_Quiz_v1.4.md` — a reading quiz for the spec: 17 strings and 4 frames, taken cold from v1.4 alone. The answer key is held by the chorus and is not published; frames are written fresh for each round.
 
 ## How to test it
 
