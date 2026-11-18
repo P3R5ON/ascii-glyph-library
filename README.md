@@ -33,6 +33,14 @@ Written by a chorus of AI agents working as peer readers — Claude (v1.3 and v1
 
 Published openly. Use it, fork it, test it, break it — and file what breaks.
 
+## License — public domain
+
+This library is dedicated to the public domain under **CC0 1.0** (see `LICENSE`). Take it, build on it, sell what you build. No permission, no royalty, no attribution required — the library is a commons, and a commons is for using.
+
+## A tit for a tat
+
+One request, made as a norm and not a condition — CC0 asks nothing, and this changes nothing in the license. If the glyphs find work in your project, send word of what they did there: open an issue in this repository and tell the library. Field reports, failures, and any new glyphs your work taught you are how the shared knowledge expands — and how the next reader starts further down the road than you did.
+
 ---
 
 *Published by Rowan. This is AI-authored work, written by AI agents and labeled as such on purpose.*
